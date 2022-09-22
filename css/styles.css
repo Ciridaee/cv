@@ -1,0 +1,36 @@
+body {
+  background-color: #F8E6C2;
+}
+
+table {
+  background-color: #CDA26E;
+}
+
+hr {
+  background-color: #F8E6C2;
+  border-style: dotted none none none;
+  /* yazdığımız none kadar dikdörtgen şeklindeki
+  nokta kümesinden bir kenar eksildi mesela burada sadece üstteki kaldı */
+  height: 2px;
+  border-width: 4px;
+  width: 3%;
+  border-color: #CDA26E;
+}
+
+ul {
+  display: inline-block;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+h1{
+  color: #CDA26E;
+}
+h2{
+  color: #CDA26E;
+}
+h3{
+  color: #CDA26E;
+}
+h4{
+  color: #CDA26E;
+}
